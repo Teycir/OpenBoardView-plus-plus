@@ -1,0 +1,7 @@
+###Panel Added
+COMP R1 0603 X X 0 0 1 X
+C_PIN R1 1.0 1.0 0.5 0.5 0.5 pad /GND
+C_PIN R1 1.1 1.0 0.5 0.5 0.5 pad /VCC
+COMP U1 SOIC8 X X 0 0 2 X
+C_PIN U1 2.0 2.0 0.5 0.5 0.5 pad /VCC
+C_PIN U1 2.1 2.0 0.5 0.5 0.5 pad /SIG
